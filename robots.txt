@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://mokaabtalayi.ir/sitemap.xml
